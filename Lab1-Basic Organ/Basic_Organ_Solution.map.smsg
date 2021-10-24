@@ -1,1 +1,0 @@
-Warning (10268): Verilog HDL information at movingLED.v(13): always construct contains both blocking and non-blocking assignments
