@@ -1,0 +1,53 @@
+{C:/UBC/CPEN 311/lab/lab2_tb/readKbd_tb.v} {1 {vlog -work work -stats=none {C:/UBC/CPEN 311/lab/lab2_tb/readKbd_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module readKbd_tb
+
+Top level modules:
+	readKbd_tb
+
+} {} {}} {C:/UBC/CPEN 311/lab/lab2_tb/addrCal.sv} {1 {vlog -work work -sv -stats=none {C:/UBC/CPEN 311/lab/lab2_tb/addrCal.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module addrCal
+
+Top level modules:
+	addrCal
+
+} {} {}} {C:/UBC/CPEN 311/lab/lab2_tb/clock_generator_tb.v} {1 {vlog -work work -stats=none {C:/UBC/CPEN 311/lab/lab2_tb/clock_generator_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module clock_generator_tb
+
+Top level modules:
+	clock_generator_tb
+
+} {} {}} {C:/UBC/CPEN 311/lab/lab2_tb/readKbd.sv} {1 {vlog -work work -sv -stats=none {C:/UBC/CPEN 311/lab/lab2_tb/readKbd.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module readKbd
+
+Top level modules:
+	readKbd
+
+} {} {}} {C:/UBC/CPEN 311/lab/lab2_tb/addrCal_tb.v} {1 {vlog -work work -stats=none {C:/UBC/CPEN 311/lab/lab2_tb/addrCal_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module addrCal_tb
+
+Top level modules:
+	addrCal_tb
+
+} {} {}} {C:/UBC/CPEN 311/lab/lab2_tb/readFlash.sv} {1 {vlog -work work -sv -stats=none {C:\UBC\CPEN 311\lab\lab2_tb\readFlash.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module readFlash
+
+Top level modules:
+	readFlash
+
+} {} {}} {C:/UBC/CPEN 311/lab/lab2_tb/clock_generator.sv} {1 {vlog -work work -sv -stats=none {C:/UBC/CPEN 311/lab/lab2_tb/clock_generator.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module clock_generator
+-- Compiling module speedControl
+-- Compiling module clockDivisor
+-- Compiling module doublesync
+
+Top level modules:
+	clock_generator
+
+} {} {}}

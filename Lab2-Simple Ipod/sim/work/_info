@@ -1,0 +1,307 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/UBC/CPEN 311/lab/lab2_tb
+vaddrCal
+Z1 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z2 !s110 1634444919
+!i10b 1
+!s100 `bJBOkfL86zI<5efmnY9?0
+IjB;dn=k:RI434g@ITG=hK0
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+!s105 addrCal_sv_unit
+S1
+R0
+w1634373920
+8C:/UBC/CPEN 311/lab/lab2_tb/addrCal.sv
+FC:/UBC/CPEN 311/lab/lab2_tb/addrCal.sv
+L0 1
+Z4 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1634444919.439000
+!s107 C:/UBC/CPEN 311/lab/lab2_tb/addrCal.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/UBC/CPEN 311/lab/lab2_tb/addrCal.sv|
+!i113 1
+Z5 o-work work -sv
+naddr@cal
+vaddrCal_tb
+!s110 1634444920
+!i10b 1
+!s100 4DQ3elkTbU_?zZG@Ho5e?2
+I^jeCA`:7V0?jU9jM1J53P0
+R3
+R0
+w1634371826
+8C:/UBC/CPEN 311/lab/lab2_tb/addrCal_tb.v
+FC:/UBC/CPEN 311/lab/lab2_tb/addrCal_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1634444920.037000
+!s107 C:/UBC/CPEN 311/lab/lab2_tb/addrCal_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UBC/CPEN 311/lab/lab2_tb/addrCal_tb.v|
+!i113 1
+Z6 o-work work
+naddr@cal_tb
+vclock_generator
+R1
+R2
+!i10b 1
+!s100 Bo5S4Zh=eQ1n@0k<In]W01
+I2VRHCA;mE2mQ>][OAF_T]3
+R3
+Z7 !s105 clock_generator_sv_unit
+S1
+R0
+Z8 w1634415959
+Z9 8C:/UBC/CPEN 311/lab/lab2_tb/clock_generator.sv
+Z10 FC:/UBC/CPEN 311/lab/lab2_tb/clock_generator.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z11 !s108 1634444919.579000
+Z12 !s107 C:/UBC/CPEN 311/lab/lab2_tb/clock_generator.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/UBC/CPEN 311/lab/lab2_tb/clock_generator.sv|
+!i113 1
+R5
+vclock_generator_tb
+R2
+!i10b 1
+!s100 Yhm`cFRN^?RNXj43L_zGS1
+IZj8GXDzWC3DBg;Fm@WFR23
+R3
+R0
+w1634415957
+8C:/UBC/CPEN 311/lab/lab2_tb/clock_generator_tb.v
+FC:/UBC/CPEN 311/lab/lab2_tb/clock_generator_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1634444919.949000
+!s107 C:/UBC/CPEN 311/lab/lab2_tb/clock_generator_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UBC/CPEN 311/lab/lab2_tb/clock_generator_tb.v|
+!i113 1
+R6
+vclockDivisor
+R1
+R2
+!i10b 1
+!s100 MY6^D9WO12Q;P[HDkE@;[3
+I4cVno3I^zcK>Hc10dWiB03
+R3
+R7
+S1
+R0
+R8
+R9
+R10
+L0 74
+R4
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R5
+nclock@divisor
+vdoublesync
+R1
+R2
+!i10b 1
+!s100 kiVKk7XdHGX8O2D;3baiI3
+IYKBJg9jA5d=QcS4V0Hb:30
+R3
+R7
+S1
+R0
+R8
+R9
+R10
+L0 94
+R4
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R5
+vFDC
+R1
+Z14 !s110 1634379255
+!i10b 1
+!s100 C0B=A?dKB31M=1:5JKhX>3
+Iz6fTVCoYi6BNiNSifLh4S3
+R3
+R7
+S1
+R0
+Z15 w1634379244
+R9
+R10
+L0 71
+R4
+r1
+!s85 0
+31
+Z16 !s108 1634379255.040000
+R12
+R13
+!i113 1
+R5
+n@f@d@c
+vreadFlash
+R1
+R2
+!i10b 1
+!s100 7D`HZlW]LB8FNAPSGliid0
+IZ^TQaO@IAXJe1V6akCjM60
+R3
+!s105 readFlash_sv_unit
+S1
+R0
+w1634361617
+8C:\UBC\CPEN 311\lab\lab2_tb\readFlash.sv
+FC:\UBC\CPEN 311\lab\lab2_tb\readFlash.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1634444919.724000
+!s107 C:\UBC\CPEN 311\lab\lab2_tb\readFlash.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\UBC\CPEN 311\lab\lab2_tb\readFlash.sv|
+!i113 1
+R5
+nread@flash
+vreadFlash_tb
+!s110 1634444922
+!i10b 1
+!s100 Yg:6En3:Hj1?1?V6n_CbP3
+I5=?_NeT9UYXng29@FbciQ1
+R3
+R0
+w1634444909
+8C:/UBC/CPEN 311/lab/lab2_tb/readFlash_tb.v
+FC:/UBC/CPEN 311/lab/lab2_tb/readFlash_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1634444922.755000
+!s107 C:/UBC/CPEN 311/lab/lab2_tb/readFlash_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UBC/CPEN 311/lab/lab2_tb/readFlash_tb.v|
+!i113 1
+R6
+nread@flash_tb
+vreadKbd
+R1
+R2
+!i10b 1
+!s100 5J2NnIeY9SzAXjeW133o13
+IQZLkzgdLOXL0biW?U?8cG3
+R3
+!s105 readKbd_sv_unit
+S1
+R0
+w1634362687
+8C:/UBC/CPEN 311/lab/lab2_tb/readKbd.sv
+FC:/UBC/CPEN 311/lab/lab2_tb/readKbd.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1634444919.835000
+!s107 C:/UBC/CPEN 311/lab/lab2_tb/readKbd.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/UBC/CPEN 311/lab/lab2_tb/readKbd.sv|
+!i113 1
+R5
+nread@kbd
+vreadKbd_tb
+R2
+!i10b 1
+!s100 GjK5Q:0;;>`Y_fOYBkznE3
+IeRR_OaFadZ:G5HGbZD_XQ1
+R3
+R0
+w1634362240
+8C:/UBC/CPEN 311/lab/lab2_tb/readKbd_tb.v
+FC:/UBC/CPEN 311/lab/lab2_tb/readKbd_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1634444919.335000
+!s107 C:/UBC/CPEN 311/lab/lab2_tb/readKbd_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UBC/CPEN 311/lab/lab2_tb/readKbd_tb.v|
+!i113 1
+R6
+nread@kbd_tb
+vspeedControl
+R1
+R2
+!i10b 1
+!s100 UMJW@;1`77:[jYBdkNGm:0
+I`YDcF=Y8B38^fZYfa]7>o3
+R3
+R7
+S1
+R0
+R8
+R9
+R10
+L0 40
+R4
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R5
+nspeed@control
+vsynchClock
+R1
+R14
+!i10b 1
+!s100 8;K4<;idoeZ=M>o41h8AB0
+I<fb9MY:HdQ41Z]13h4:I21
+R3
+R7
+S1
+R0
+R15
+R9
+R10
+L0 80
+R4
+r1
+!s85 0
+31
+R16
+R12
+R13
+!i113 1
+R5
+nsynch@clock

@@ -1,0 +1,14 @@
+module readKbd_tb();
+	reg clk; 
+	reg [7:0] kbd_ascii;
+        wire start, direction, restart;
+
+	readKbd DUT(.clk(clk), .kbd_ascii(kbd_ascii), .start(start), .direction(direction), .restart(restart));
+
+	initial forever begin
+		clk = 1'b1; #5;
+		clk = 1'b0; #5;
+	end
+
+
+endmodule
