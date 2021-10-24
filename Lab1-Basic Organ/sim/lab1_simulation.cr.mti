@@ -1,0 +1,29 @@
+{C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Lab_Lab1/sim/movingLED.v} {1 {vlog -work work -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Lab_Lab1/sim/movingLED.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module movingLED
+
+Top level modules:
+	movingLED
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Lab_Lab1/sim/clockDivisor_tb.v} {1 {vlog -work work -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Lab_Lab1/sim/clockDivisor_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module clockDivisor_tb
+
+Top level modules:
+	clockDivisor_tb
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Lab_Lab1/sim/movingLED_tb.v} {1 {vlog -work work -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Lab_Lab1/sim/movingLED_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module movingLED_tb
+
+Top level modules:
+	movingLED_tb
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Lab_Lab1/sim/clockDivisor.v} {1 {vlog -work work -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Lab_Lab1/sim/clockDivisor.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module clockDivisor
+
+Top level modules:
+	clockDivisor
+
+} {} {}}
