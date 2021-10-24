@@ -1,0 +1,30 @@
+module clock_generator(
+    input logic clk,
+    input logic speedUp, speedDown, speedReset,
+    input logic start,
+    input logic TD_CLK27,
+    output logic clk_audio
+);
+
+    // default that would creat 22kHz
+    logic [31:0] next_halfCycle = 32'h265;
+
+    always_ff @(posedge clk) begin
+        case ({speedReset, speedDown, speedUp})
+            3'b001: next_halfCycle <= (next_halfCycle - 32'h1);
+            3'b010: next_halfCycle <= (next_halfCycle + 32'h1);
+            3'b100: next_halfCycle <= 32'h265;
+            default: next_halfCycle <= next_halfCycle;
+        endcase
+    end
+
+    wire halfCycle;
+    assign halfCycle = next_halfCycle;
+
+    wire CLK_async, CLK_sync;
+    clockDivisor CLK_divided(.clk_in(TD_CLK27), .half_cycle(halfCycle), .clk_out(CLK_async));
+
+    doublesync clk_synch(.indata(CLK_async), .outdata(CLK_sync), .clk(clk), .reset(1'b1));
+    assign clk_audio = start ? CLK_sync : 1'b0;
+
+endmodule
