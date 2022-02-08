@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/14.1
+Ewaveform_gen
+Z0 w1636583770
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/UBC/CPEN311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_5/sim
+Z5 8C:/UBC/CPEN311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_5/rtl/Lab5_template_de1soc/waveform_gen.vhd
+Z6 FC:/UBC/CPEN311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_5/rtl/Lab5_template_de1soc/waveform_gen.vhd
+l0
+L25
+V6g>7_nmdaCXm[:b[:hUcd1
+!s100 O9<>HBaTeeZdZYXNFZ;ln1
+Z7 OV;C;10.3c;59
+32
+Z8 !s110 1637804032
+!i10b 1
+Z9 !s108 1637804032.642000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/UBC/CPEN311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_5/rtl/Lab5_template_de1soc/waveform_gen.vhd|
+Z11 !s107 C:/UBC/CPEN311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_5/rtl/Lab5_template_de1soc/waveform_gen.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+Artl
+R1
+R2
+R3
+Z14 DEx4 work 12 waveform_gen 0 22 6g>7_nmdaCXm[:b[:hUcd1
+l69
+L48
+Z15 VGlmWn99iTdA]Ee?[f]hW60
+Z16 !s100 bkd4_zF_Ql1MhU_RQhGRZ3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vwaveform_gen_tb
+R8
+!i10b 1
+!s100 B`z0:=MVimnkaSRQFjZBQ3
+IC3HMWD`jWzTj7Vi`?g5J]0
+V`JN@9S9cnhjKRR_L]QIcM3
+R4
+w1637804027
+8C:/UBC/CPEN311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_5/rtl/Lab5_template_de1soc/waveform_gen_tb.v
+FC:/UBC/CPEN311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_5/rtl/Lab5_template_de1soc/waveform_gen_tb.v
+L0 1
+OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1637804032.493000
+!s107 C:/UBC/CPEN311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_5/rtl/Lab5_template_de1soc/waveform_gen_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UBC/CPEN311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_5/rtl/Lab5_template_de1soc/waveform_gen_tb.v|
+!i113 1
+o-work work

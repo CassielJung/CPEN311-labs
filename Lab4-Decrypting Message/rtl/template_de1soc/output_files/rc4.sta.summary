@@ -1,0 +1,245 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'altera_reserved_tck'
+Slack : 8.985
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : 11.642
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'mem_write:initialize_mem|state[1]'
+Slack : 36.386
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'mem_write:initialize_mem|state[1]'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.291
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'mem_write:initialize_mem|state[1]'
+Slack : 14.227
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 15.252
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'CLOCK_50'
+Slack : 16.732
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'altera_reserved_tck'
+Slack : 0.615
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'CLOCK_50'
+Slack : 0.653
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'mem_write:initialize_mem|state[1]'
+Slack : 3.870
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.805
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.155
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'mem_write:initialize_mem|state[1]'
+Slack : 19.406
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'altera_reserved_tck'
+Slack : 9.302
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : 12.054
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'mem_write:initialize_mem|state[1]'
+Slack : 36.407
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'mem_write:initialize_mem|state[1]'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.408
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'mem_write:initialize_mem|state[1]'
+Slack : 14.223
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 15.333
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'CLOCK_50'
+Slack : 16.648
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.575
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'CLOCK_50'
+Slack : 0.621
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'mem_write:initialize_mem|state[1]'
+Slack : 3.884
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.139
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'mem_write:initialize_mem|state[1]'
+Slack : 19.395
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'altera_reserved_tck'
+Slack : 11.831
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : 13.805
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'mem_write:initialize_mem|state[1]'
+Slack : 37.868
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'mem_write:initialize_mem|state[1]'
+Slack : 0.073
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.122
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.177
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 16.207
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'mem_write:initialize_mem|state[1]'
+Slack : 16.444
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'CLOCK_50'
+Slack : 17.807
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'altera_reserved_tck'
+Slack : 0.244
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'CLOCK_50'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'mem_write:initialize_mem|state[1]'
+Slack : 1.976
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.530
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 14.817
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'mem_write:initialize_mem|state[1]'
+Slack : 19.643
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'altera_reserved_tck'
+Slack : 12.528
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : 14.757
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'mem_write:initialize_mem|state[1]'
+Slack : 37.988
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'mem_write:initialize_mem|state[1]'
+Slack : 0.055
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.076
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.110
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 16.344
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'mem_write:initialize_mem|state[1]'
+Slack : 16.638
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'CLOCK_50'
+Slack : 17.930
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'CLOCK_50'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'mem_write:initialize_mem|state[1]'
+Slack : 1.861
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.481
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 14.794
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'mem_write:initialize_mem|state[1]'
+Slack : 19.645
+TNS   : 0.000
+
+------------------------------------------------------------

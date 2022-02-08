@@ -1,0 +1,73 @@
+{C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/mem_write.sv} {2 {vlog -work work -sv -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/mem_write.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module mem_write
+** Warning: C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/mem_write.sv(8): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	mem_write
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/shuffle_array_fsm_tb.v} {1 {vlog -work work -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/shuffle_array_fsm_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module shuffle_array_fsm_tb
+
+Top level modules:
+	shuffle_array_fsm_tb
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/decrypt_message_fsm_tb.v} {1 {vlog -work work -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/decrypt_message_fsm_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module decrypt_message_fsm_tb
+
+Top level modules:
+	decrypt_message_fsm_tb
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/address_calc_tb.v} {1 {vlog -work work -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/address_calc_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module address_calc_tb
+
+Top level modules:
+	address_calc_tb
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/key_count_fsm.sv} {1 {vlog -work work -sv -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/key_count_fsm.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module key_count_fsm
+
+Top level modules:
+	key_count_fsm
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/mem_write_tb.v} {1 {vlog -work work -stats=none {C:\UBC\CPEN 311\lab\Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4\rtl\template_de1soc\mem_write_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module mem_write_tb
+
+Top level modules:
+	mem_write_tb
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/address_calc.sv} {1 {vlog -work work -sv -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/address_calc.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module address_calc
+
+Top level modules:
+	address_calc
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/key_count_fsm_tb.v} {1 {vlog -work work -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/key_count_fsm_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module key_count_fsm_tb
+
+Top level modules:
+	key_count_fsm_tb
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/shuffle_array_fsm.sv} {1 {vlog -work work -sv -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/shuffle_array_fsm.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module shuffle_array_fsm
+
+Top level modules:
+	shuffle_array_fsm
+
+} {} {}} {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/decrypt_message_fsm.sv} {1 {vlog -work work -sv -stats=none {C:/UBC/CPEN 311/lab/Cassiel_Jung_33294968_Minwoo_Song_33955402_Lab_Lab4/rtl/template_de1soc/decrypt_message_fsm.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module decrypt_message_fsm
+
+Top level modules:
+	decrypt_message_fsm
+
+} {} {}}
